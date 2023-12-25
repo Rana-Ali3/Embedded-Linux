@@ -17,7 +17,7 @@ contain libraty of the system
 ![lib on sysroot](https://github.com/Rana-Ali3/Embedded-Linux/assets/151008666/2bd89b0b-98c1-4709-b2d3-9dd179bbfaa0)
 
 
-![](/home/rana/Pictures/Screenshots/lib on sysroot.png)
+
 
 #### usr:
 
